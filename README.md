@@ -17,7 +17,7 @@ The goal of this project is to identify customers who are likely to churn and pr
 2. **Interactive Dashboard**
    - Built an interactive Power BI dashboard to visualize churn insights.
    - Key metrics such as churn rate, customer demographics, and churn distribution by state, tenure, and services used.
-   - Filters and slicers for dynamic exploration of customer data.
+
 
 ## Technologies Used
 
@@ -26,9 +26,4 @@ The goal of this project is to identify customers who are likely to churn and pr
 - **Power BI**
 - **Machine Learning**: Random Forest Classifier
 
-### Predicted Churner Profile
-![Predicted Churner Profile](Screenshot%202025-01-21%20121313.png)
-
-### Churn Analysis Summary
-![Churn Analysis Summary](Screenshot%202025-01-21%20120737.png)
 
