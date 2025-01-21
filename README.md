@@ -2,7 +2,7 @@
 
 This project focuses on predicting customer churn for a service provider company using a machine learning model (Random Forest). It also includes an interactive dashboard created using Power BI for better insights into customer data and churn patterns.
 
-## Project Overview
+##  Overview
 
 ### Objective
 The goal of this project is to identify customers who are likely to churn and provide actionable insights for improving customer retention strategies.
